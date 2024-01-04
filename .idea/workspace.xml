@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="281774b0-9970-45f1-a7eb-90f10b4d8e7e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/crawl/phase 1/artistDataset.csv" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/machine_learning_trailblazer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HMN1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/phase 2/get song info/HMN1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/phase 2/get song info/artist_filter2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/phase 2/get song info/scan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/phase 2/get song info/song_data_6321-12640.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/phase 2/get song info/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/phase 2/get song info/update_list_ngoc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/crawl/phase 2/get song info/filter_artist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawl/phase 2/get song info/filter_artist.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/crawl/phase 2/get song info/get_song_info.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawl/phase 2/get song info/get_song_info.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crawl/phase 2/merge_data/song_data_6321-12640.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawl/phase 2/merge_data/song_data_6321-12640.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,28 +34,39 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2aHkxyUV88DFhMQYzQh1s7qeAhM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\minhn\OneDrive\Desktop\hocmay\machine_learning_trailblazer\src\crawl\phase 2\get song info" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,10 +83,16 @@
       <option name="presentableId" value="Default" />
       <updated>1703983142966</updated>
       <workItem from="1703983147586" duration="833000" />
+      <workItem from="1704184503440" duration="658000" />
+      <workItem from="1704260286413" duration="14000" />
+      <workItem from="1704366382164" duration="369000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
